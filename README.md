@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Cloud Architecture, SQL Database optimization, Data Warehousing, and end-to-end ETL pipelines and Power BI dashboards.<br><br>👯 I’m looking to collaborate on meaningful Data Engineering projects, specifically within the Azure ecosystem, where I can implement scalable cloud solutions.<br><br>🤝 I’m looking for help with mastering advanced CI/CD for data pipelines and optimizing cloud costs.<br><br>🌱 I’m currently learning PySpark and distributed computing technologies to handle Big Data at scale.<br><br>💬 Ask me about Data Modeling (Star/Snowflake schema), Dimensional Modeling, Data Mapping, and building high-impact dashboards.
 
 
